@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/JeonDaHoon/package-test#readme",
   "publishConfig": {
-    "@<em>JeonDaHoon</em>:registry": "https://npm.pkg.github.com"
+    "@<em>dhjeon</em>:registry": "https://npm.pkg.github.com"
   }
 }
