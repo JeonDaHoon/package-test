@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JeonDaHoon/package-test/issues"
   },
-  "homepage": "https://github.com/JeonDaHoon/package-test#readme"
+  "homepage": "https://github.com/JeonDaHoon/package-test#readme",
+  "publishConfig": {
+    "@<em>JeonDaHoon</em>:registry": "https://npm.pkg.github.com"
+  }
 }
