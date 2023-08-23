@@ -1,7 +1,7 @@
 {
-  "name": "package-test",
+  "name": "@jeondahoon/package-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "package publish test",
   "main": "index.js",
   "scripts": {
     "test": "exit 0",
@@ -11,13 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/JeonDaHoon/package-test.git"
   },
-  "author": "",
+  "author": "dhjeon",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JeonDaHoon/package-test/issues"
   },
   "homepage": "https://github.com/JeonDaHoon/package-test#readme",
   "publishConfig": {
-    "@<em>dhjeon</em>:registry": "https://npm.pkg.github.com"
+    "@jeondahoon:registry": "https://npm.pkg.github.com"
   }
 }
